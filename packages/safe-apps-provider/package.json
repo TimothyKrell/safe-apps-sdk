@@ -1,5 +1,5 @@
 {
-  "name": "@safe-global/safe-apps-provider",
+  "name": "@timk/safe-apps-provider",
   "version": "0.17.0",
   "description": "A provider wrapper of Safe Apps SDK",
   "main": "dist/index.js",

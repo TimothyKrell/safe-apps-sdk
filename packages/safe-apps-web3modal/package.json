@@ -1,5 +1,5 @@
 {
-  "name": "@safe-global/safe-apps-web3modal",
+  "name": "@timk/safe-apps-web3modal",
   "version": "19.0.2",
   "description": "A web3modal wrapper for Safe App support",
   "main": "dist/index.js",

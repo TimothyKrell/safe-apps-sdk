@@ -1,5 +1,5 @@
 {
-  "name": "@safe-global/safe-apps-sdk",
+  "name": "@timk/safe-apps-sdk",
   "version": "7.11.0",
   "description": "SDK developed to integrate third-party apps with Safe app.",
   "main": "dist/src/index.js",
